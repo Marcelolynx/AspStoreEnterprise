@@ -1,0 +1,12 @@
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/bin/Debug/net5.0/ASE.Core.deps.json
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/bin/Debug/net5.0/ASE.Core.dll
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/bin/Debug/net5.0/ref/ASE.Core.dll
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/bin/Debug/net5.0/ASE.Core.pdb
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.csproj.AssemblyReference.cache
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.AssemblyInfoInputs.cache
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.AssemblyInfo.cs
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.csproj.CoreCompileInputs.cache
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.dll
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ref/ASE.Core.dll
+/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/building blocks/ASE.Core/obj/Debug/net5.0/ASE.Core.pdb

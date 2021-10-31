@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbgQxdEYqOjc0mAJggM3hS2Mqk1Ax7M0t2fLSS830Q6s5DDRIhpcqF9tFHPTUiMXKiooZZ8YLyPDdpuyQSv5zA==",
+  "success": true,
+  "projectFilePath": "/Users/marcelolynx/RiderProjects/AspStoreInterprise/src/Services/ASE.Catalogo.API/ASE.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcelolynx/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/marcelolynx/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/marcelolynx/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/marcelolynx/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/marcelolynx/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/marcelolynx/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
